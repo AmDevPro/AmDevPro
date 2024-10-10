@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Abdirizaq Mohamed 👋
 
-<!--
-**AmDevPro/AmDevPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Cloud Administrator | Aspiring DevOps Engineer | Passionate about CI/CD, Kubernetes, Terraform, and Cloud Technologies
 
-Here are some ideas to get you started:
+## Skills
+- !Python 🚀
+- !Bash 💻
+- !YAML 📄
+- !Jenkins 🔧
+- !Terraform 🌍
+- !Ansible 📦
+- !Networking 🌐
+- !Azure ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Project 1: Developing an automated CI/CD pipeline using Jenkins and Docker.
+- Project 2: Setting up and managing Kubernetes clusters with Helm.
+
+## Connect with Me
+- LinkedIn - (www.linkedin.com/in/abdirizaq-mohamed) 
+
